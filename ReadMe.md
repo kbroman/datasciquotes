@@ -16,7 +16,7 @@
 > to emails.
 
 &ndash; [@gonuke](https://twitter.com/gonuke), after [@kcranstn](https://twitter.com/kcranstn)
-<http://bit.ly/motivate_git> (really from [@mtholder](https://twitter.com/mtholder)
+<http://bit.ly/motivate_git> (really from [@mtholder](https://twitter.com/mtholder))
 
 
 
