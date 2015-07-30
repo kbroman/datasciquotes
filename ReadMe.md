@@ -22,7 +22,7 @@
 
 > Pick a license, any license.
 
-&ndash; [@codinghorror](https://twitter.com/codinghorror)
+&ndash; [@codinghorror](https://twitter.com/codinghorror),
 <http://blog.codinghorror.com/pick-a-license-any-license/>
 
 
@@ -32,14 +32,14 @@
 > far as I can tell, everyone does
 > this.
 
-&ndash; [@christinacaci](https://twitter.com/christinacaci)
+&ndash; [@christinacaci](https://twitter.com/christinacaci),
 <http://christinacacioppo.com/blog/build-products>
 
 
 
 > like asking how to extract chocolate from meatloaf
 
-&ndash; [@voovarb](https://twitter.com/voovarb)
+&ndash; [@voovarb](https://twitter.com/voovarb),
 <https://twitter.com/Voovarb/status/626805028808970240>
 
 
