@@ -48,3 +48,9 @@
 
 &ndash; [@hadleywickham](https://twitter.com/hadleywickham),
 [testthat article](http://journal.r-project.org/archive/2011-1/RJournal_2011-1_Wickham.pdf)
+
+
+> Let's start the "titanic data" movement. Data too big to fail.
+
+&ndash; [@neilfws](https://twitter.com/neilfws) with assist from [@aaronquinlan](https://twitter.com/aaronquinlan),
+<https://twitter.com/neilfws/status/588533319135985665>
