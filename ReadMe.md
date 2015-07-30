@@ -41,3 +41,10 @@
 
 &ndash; [@voovarb](https://twitter.com/voovarb)
 <https://twitter.com/Voovarb/status/626805028808970240>
+
+
+> It's not that we don't test our code, it's that we don't store our
+  tests so they can be re-run automatically.
+
+&ndash; [@hadleywickham](https://twitter.com/hadleywickham),
+[testthat article](http://journal.r-project.org/archive/2011-1/RJournal_2011-1_Wickham.pdf)
