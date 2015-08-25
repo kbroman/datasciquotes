@@ -55,7 +55,7 @@
 &ndash; [@neilfws](https://twitter.com/neilfws) with assist from [@aaronquinlan](https://twitter.com/aaronquinlan),
 <https://twitter.com/neilfws/status/588533319135985665>
 
-> Behind every wildly successful tool there’s probably a very powerful abstraction
+> Behind every wildly successful tool there’s probably a very powerful abstraction.
 
 &ndash; [@JennyBryan](https://twitter.com/jennybryan),
 <https://twitter.com/JennyBryan/status/631241695464534016>
