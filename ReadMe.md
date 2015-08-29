@@ -59,6 +59,13 @@ via [@sgrifter](https://twitter.com/sgrifter),
 [testthat article](http://journal.r-project.org/archive/2011-1/RJournal_2011-1_Wickham.pdf)
 
 
+> Teach stats as you would cake baking: make a few before you delve
+> into the theory of leavening agents
+
+-- [@JennyBryan](https://twitter.com/JennyBryan/status/634754961801351168) after
+[Joan Strassmann](https://sociobiology.wordpress.com/2015/08/13/teach-statistics-the-same-way-you-teach-baking-a-chocolate-cake/)
+
+
 > Let's start the "titanic data" movement. Data too big to fail.
 
 -- [@neilfws](https://twitter.com/neilfws) with assist from [@aaronquinlan](https://twitter.com/aaronquinlan),
