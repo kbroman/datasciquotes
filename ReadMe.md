@@ -75,3 +75,8 @@ via [@sgrifter](https://twitter.com/sgrifter),
 
 -- [@JennyBryan](https://twitter.com/jennybryan),
 <https://twitter.com/JennyBryan/status/631241695464534016>
+
+> R is a datasmith's heaven-on-earth; I like Python, long term relationship with Excel, quite like Power Query, DAX's a keeper, but I love R.
+
+-- [@tggleeson](https://twitter.com/tggleeson),
+<https://twitter.com/tggleeson/status/591013073542062081>
