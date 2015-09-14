@@ -66,6 +66,11 @@ via [@sgrifter](https://twitter.com/sgrifter),
 [Joan Strassmann](https://sociobiology.wordpress.com/2015/08/13/teach-statistics-the-same-way-you-teach-baking-a-chocolate-cake/)
 
 
+> In theory there is no difference between theory and practice. In practice there is.
+
+-- Attributed to [Jan L. A. van de Snepscheut](https://en.wikiquote.org/wiki/Jan_L._A._van_de_Snepscheut);
+   often [misattributed to Yogi Berra](https://en.wikiquote.org/wiki/Yogi_Berra)
+
 > Let's start the "titanic data" movement. Data too big to fail.
 
 -- [@neilfws](https://twitter.com/neilfws) with assist from [@aaronquinlan](https://twitter.com/aaronquinlan),
