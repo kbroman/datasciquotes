@@ -16,14 +16,14 @@
 > to emails.
 
 — [@gonuke](https://twitter.com/gonuke), after [@kcranstn](https://twitter.com/kcranstn)
-<http://bit.ly/motivate_git> (really from [@mtholder](https://twitter.com/mtholder))
+[tweet](http://bit.ly/motivate_git) (really from [@mtholder](https://twitter.com/mtholder))
 
 
 
 > Pick a license, any license.
 
 — [@codinghorror](https://twitter.com/codinghorror),
-<http://blog.codinghorror.com/pick-a-license-any-license/>
+[blog post](http://blog.codinghorror.com/pick-a-license-any-license/)
 
 
 
@@ -33,7 +33,7 @@
 > this.
 
 — [@christinacaci](https://twitter.com/christinacaci),
-<http://christinacacioppo.com/blog/build-products>
+[blog post](http://christinacacioppo.com/blog/build-products)
 
 
 
@@ -42,14 +42,14 @@
 
 — [@jennybryan](https://twitter.com/jennybryan),
 via [@sgrifter](https://twitter.com/sgrifter),
-<https://twitter.com/sgrifter/status/631150829165113344>
+[tweet](https://twitter.com/sgrifter/status/631150829165113344)
 
 
 
 > like asking how to extract chocolate from meatloaf
 
 — [@voovarb](https://twitter.com/voovarb),
-<https://twitter.com/Voovarb/status/626805028808970240>
+[tweet](https://twitter.com/Voovarb/status/626805028808970240)
 
 
 > It's not that we don't test our code, it's that we don't store our
@@ -79,14 +79,14 @@ via [@sgrifter](https://twitter.com/sgrifter),
 > Let's start the "titanic data" movement. Data too big to fail.
 
 — [@neilfws](https://twitter.com/neilfws) with assist from [@aaronquinlan](https://twitter.com/aaronquinlan),
-<https://twitter.com/neilfws/status/588533319135985665>
+[tweet](https://twitter.com/neilfws/status/588533319135985665)
 
 > Behind every wildly successful tool there’s probably a very powerful abstraction.
 
 — [@JennyBryan](https://twitter.com/jennybryan),
-<https://twitter.com/JennyBryan/status/631241695464534016>
+[tweet](https://twitter.com/JennyBryan/status/631241695464534016)
 
 > R is a datasmith's heaven-on-earth; I like Python, long term relationship with Excel, quite like Power Query, DAX's a keeper, but I love R.
 
 — [@tggleeson](https://twitter.com/tggleeson),
-<https://twitter.com/tggleeson/status/591013073542062081>
+[tweet](https://twitter.com/tggleeson/status/591013073542062081)
