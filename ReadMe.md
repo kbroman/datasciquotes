@@ -41,14 +41,14 @@
 > with salmon blood dripping out its mouth.
 
 — [@jennybryan](https://twitter.com/jennybryan),
-via [@sgrifter](https://twitter.com/sgrifter),
+via [@sgrifter](https://twitter.com/sgrifter)
 [tweet](https://twitter.com/sgrifter/status/631150829165113344)
 
 
 
 > like asking how to extract chocolate from meatloaf
 
-— [@voovarb](https://twitter.com/voovarb),
+— [@voovarb](https://twitter.com/voovarb)
 [tweet](https://twitter.com/Voovarb/status/626805028808970240)
 
 
@@ -83,10 +83,10 @@ via [@sgrifter](https://twitter.com/sgrifter),
 
 > Behind every wildly successful tool there’s probably a very powerful abstraction.
 
-— [@JennyBryan](https://twitter.com/jennybryan),
+— [@JennyBryan](https://twitter.com/jennybryan)
 [tweet](https://twitter.com/JennyBryan/status/631241695464534016)
 
 > R is a datasmith's heaven-on-earth; I like Python, long term relationship with Excel, quite like Power Query, DAX's a keeper, but I love R.
 
-— [@tggleeson](https://twitter.com/tggleeson),
+— [@tggleeson](https://twitter.com/tggleeson)
 [tweet](https://twitter.com/tggleeson/status/591013073542062081)
