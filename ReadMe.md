@@ -62,7 +62,7 @@ via [@sgrifter](https://twitter.com/sgrifter)
 > Teach stats as you would cake baking: make a few before you delve
 > into the theory of leavening agents.
 
-— [@JennyBryan](https://twitter.com/JennyBryan/status/634754961801351168) after
+— [@JennyBryan](https://twitter.com/JennyBryan) [tweet](https://twitter.com/JennyBryan/status/634754961801351168) after
 [Joan Strassmann](https://sociobiology.wordpress.com/author/goodbyehouston/)
 [blog post](https://sociobiology.wordpress.com/2015/08/13/teach-statistics-the-same-way-you-teach-baking-a-chocolate-cake/)
 
