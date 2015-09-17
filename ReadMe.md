@@ -74,7 +74,7 @@ via [@sgrifter](https://twitter.com/sgrifter),
 > The opposite of “open” isn’t “closed”. The opposite of “open” is
   “broken”.
 
-— John Wilbanks, ["The unreasonable effectiveness of open data" (pdf)](https://dspace.library.colostate.edu/bitstream/handle/10217/81403/CI_Days_2010_Wilbanks.pdf)
+— John Wilbanks, ["The unreasonable effectiveness of open data" (pdf slides)](https://dspace.library.colostate.edu/bitstream/handle/10217/81403/CI_Days_2010_Wilbanks.pdf)
 
 > Let's start the "titanic data" movement. Data too big to fail.
 
