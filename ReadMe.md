@@ -22,7 +22,7 @@
 
 > Pick a license, any license.
 
-— [@codinghorror](https://twitter.com/codinghorror),
+— [@codinghorror](https://twitter.com/codinghorror)
 [blog post](http://blog.codinghorror.com/pick-a-license-any-license/)
 
 
@@ -32,7 +32,7 @@
 > far as I can tell, everyone does
 > this.
 
-— [@christinacaci](https://twitter.com/christinacaci),
+— [@christinacaci](https://twitter.com/christinacaci)
 [blog post](http://christinacacioppo.com/blog/build-products)
 
 
@@ -63,7 +63,8 @@ via [@sgrifter](https://twitter.com/sgrifter)
 > into the theory of leavening agents.
 
 — [@JennyBryan](https://twitter.com/JennyBryan/status/634754961801351168) after
-[Joan Strassmann](https://sociobiology.wordpress.com/2015/08/13/teach-statistics-the-same-way-you-teach-baking-a-chocolate-cake/)
+[Joan Strassmann](https://sociobiology.wordpress.com/author/goodbyehouston/)
+[blog post](https://sociobiology.wordpress.com/2015/08/13/teach-statistics-the-same-way-you-teach-baking-a-chocolate-cake/)
 
 
 > In theory there is no difference between theory and practice. In practice there is.
