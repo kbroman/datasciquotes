@@ -91,3 +91,8 @@ via [@sgrifter](https://twitter.com/sgrifter)
 
 — [@tggleeson](https://twitter.com/tggleeson)
 [tweet](https://twitter.com/tggleeson/status/591013073542062081)
+
+> Data cleaning code cannot be clean. It's a sort of sin eater.
+
+- [@StatFact](https://twitter.com/StatFact)
+[tweet](https://twitter.com/StatFact/status/492753200190341120)
