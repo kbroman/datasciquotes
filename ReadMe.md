@@ -37,6 +37,23 @@
 
 
 
+> The most important tool for Reproducible Research is the **mindset**,
+> when starting, that the end product will be reproducible.
+
+- [Keith Baggerly](http://odin.mdacc.tmc.edu/~kabaggerly/) via
+[@kwbroman](https://twitter.com/kwbroman)
+[tweet](https://twitter.com/kwbroman/status/667735926915731457)
+
+
+
+> Batch effects are important and they will bollocks you up.
+
+- [Keith Baggerly](http://odin.mdacc.tmc.edu/~kabaggerly/) via
+[@kwbroman](https://twitter.com/kwbroman)
+[tweet](https://twitter.com/kwbroman/status/667745704488529921)
+
+
+
 > Classroom data are like teddy bears; real data are like a grizzly
 > with salmon blood dripping out its mouth.
 
