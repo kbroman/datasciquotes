@@ -48,7 +48,7 @@
 
 > needs more pvalue
 
-— [Mike Love](http://mikelove.github.io)
+— [@mikelove](https://twitter.com/mikelove)
 [tweet](https://twitter.com/mikelove/status/667809435557826560)
 
 
