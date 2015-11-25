@@ -64,7 +64,7 @@
 > Classroom data are like teddy bears; real data are like a grizzly
 > with salmon blood dripping out its mouth.
 
-— [@jennybryan](https://twitter.com/jennybryan),
+— [@JennyBryan](https://twitter.com/jennybryan),
 via [@sgrifter](https://twitter.com/sgrifter)
 [tweet](https://twitter.com/sgrifter/status/631150829165113344)
 
