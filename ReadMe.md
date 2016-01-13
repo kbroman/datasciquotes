@@ -46,6 +46,15 @@
 
 
 
+> Working with data is not about rules to follow but about decisions
+> to make.
+
+— [@naupakaz](https://twitter.com/naupakaz) via
+  [@kwbroman](https://twitter.com/kwbroman)
+  [tweet](https://twitter.com/kwbroman/status/686562071853547520)
+
+
+
 > needs more pvalue
 
 — [@mikelove](https://twitter.com/mikelove)
