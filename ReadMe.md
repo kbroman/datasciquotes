@@ -6,6 +6,13 @@
 
 
 
+> Dear past-Hadley: PLEASE COMMENT YOUR CODE BETTER. Love present-Hadley
+
+— [@hadleywickham](https://twitter.com/hadleywickham)
+[tweet](https://twitter.com/hadleywickham/status/718203628528349184)
+
+
+
 > The attached is similar to the code we used.
 
 — anonymous
