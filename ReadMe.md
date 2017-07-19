@@ -71,6 +71,15 @@
 
 
 
+> I'm not worried about being scooped, I'm worried about being
+> ignored.
+
+- [@magnusnordborg](https://twitter.com/magnusnordborg), via
+  [@BaxterTwi](https://twitter.com/BaxterTwi)
+  [tweet](https://twitter.com/BaxterTwi/status/887280515593756672)
+
+
+
 > needs more pvalue
 
 — [@mikelove](https://twitter.com/mikelove)
