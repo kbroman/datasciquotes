@@ -44,6 +44,14 @@
 
 
 
+> Installation/setup/whatever is always harder and much more poorly
+> documented than mere usage.
+
+- [@JennyBryan](https://twitter.com/jennybryan)
+[tweet](https://twitter.com/JennyBryan/status/699462966282858500)
+
+
+
 > The most important tool for Reproducible Research is the **mindset**,
 > when starting, that the end product will be reproducible.
 
