@@ -52,6 +52,14 @@
 
 
 
+> Thou shalt get only as creative with names as thy own skill with
+> regular expressions.
+
+- [@JennyBryan](https://twitter.com/jennybryan)
+[tweet](https://twitter.com/JennyBryan/status/807805087544328192)
+
+
+
 > The most important tool for Reproducible Research is the **mindset**,
 > when starting, that the end product will be reproducible.
 
