@@ -51,6 +51,13 @@
 [tweet](https://twitter.com/JennyBryan/status/699462966282858500)
 
 
+> Open source isn’t free like sunshine. It’s free like a puppy.
+
+- [@sarahnovotnoy](https://twitter.com/sarahnovotnoy), via
+[@bridgetkromhout](https://twitter.com/bridgetkromhout)
+[tweet](https://twitter.com/bridgetkromhout/status/1019985983171846144)
+
+
 
 > Thou shalt get only as creative with names as thy own skill with
 > regular expressions.
