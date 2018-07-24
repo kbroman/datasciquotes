@@ -80,7 +80,7 @@
 > with probability one, somewhere contain a pony.
 
 — [@mlipsitch](https://twitter.com/mlipsitch),
-  via [callin_bull](@https://twitter.com/callin_bull)
+  via [@callin_bull](https://twitter.com/callin_bull)
   [tweet](https://twitter.com/callin_bull/status/831663695813963776)
 
 
