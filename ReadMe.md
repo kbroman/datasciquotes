@@ -47,13 +47,13 @@
 > Installation/setup/whatever is always harder and much more poorly
 > documented than mere usage.
 
-- [@JennyBryan](https://twitter.com/jennybryan)
+— [@JennyBryan](https://twitter.com/jennybryan)
 [tweet](https://twitter.com/JennyBryan/status/699462966282858500)
 
 
 > Open source isn’t free like sunshine. It’s free like a puppy.
 
-- [@sarahnovotnoy](https://twitter.com/sarahnovotnoy), via
+— [@sarahnovotnoy](https://twitter.com/sarahnovotnoy), via
 [@bridgetkromhout](https://twitter.com/bridgetkromhout)
 [tweet](https://twitter.com/bridgetkromhout/status/1019985983171846144)
 
@@ -62,7 +62,7 @@
 > Thou shalt get only as creative with names as thy own skill with
 > regular expressions.
 
-- [@JennyBryan](https://twitter.com/jennybryan)
+— [@JennyBryan](https://twitter.com/jennybryan)
 [tweet](https://twitter.com/JennyBryan/status/807805087544328192)
 
 
@@ -97,7 +97,7 @@
 > I'm not worried about being scooped, I'm worried about being
 > ignored.
 
-- [@magnusnordborg](https://twitter.com/magnusnordborg), via
+— [@magnusnordborg](https://twitter.com/magnusnordborg), via
   [@BaxterTwi](https://twitter.com/BaxterTwi)
   [tweet](https://twitter.com/BaxterTwi/status/887280515593756672)
 
