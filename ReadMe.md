@@ -185,3 +185,7 @@ via [@sgrifter](https://twitter.com/sgrifter)
 
 — [@StatFact](https://twitter.com/StatFact)
 [tweet](https://twitter.com/StatFact/status/492753200190341120)
+
+> Well begun is half done.
+
+— Attributed to Aristotle and Mary Poppins
