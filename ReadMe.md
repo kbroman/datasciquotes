@@ -140,12 +140,17 @@ via [@sgrifter](https://twitter.com/sgrifter)
 [testthat article](http://journal.r-project.org/archive/2011-1/RJournal_2011-1_Wickham.pdf)
 
 
+> If you use software that lacks automated tests, you are the tests.
+
+— [@JennyBryan](https://twitter.com/jennybryan)
+[tweet](https://twitter.com/jennybryan/status/1043307291909316609)
+
+
 > and I’m still pretty sure some of the data is missing, but it could
 > still be here, in this ONE HUNDRED SHEET excel file
 
 — [@RallidaeRule](https://mobile.twitter.com/RallidaeRule)
 [tweet](https://mobile.twitter.com/rallidaerule/status/572922098617741312)
-
 
 
 > Teach stats as you would cake baking: make a few before you delve
