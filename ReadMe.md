@@ -194,3 +194,12 @@ via [@sgrifter](https://twitter.com/sgrifter)
 > Well begun is half done.
 
 — Attributed to Aristotle and Mary Poppins
+
+
+> You shouldn't feel ashamed about your code - if it solves the
+> problem, it's perfect just the way it is. But also, it could always
+> be better.
+
+— [@hadleywickham](https://twitter.com/hadleywickham)
+via [@allimoberger](https://twitter.com/allimoberger)
+[tweet](https://twitter.com/allimoberger/status/1085268564821585921
