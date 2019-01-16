@@ -51,6 +51,7 @@
 [tweet](https://twitter.com/JennyBryan/status/699462966282858500)
 
 
+
 > Open source isn’t free like sunshine. It’s free like a puppy.
 
 — [@sarahnovotnoy](https://twitter.com/sarahnovotnoy), via
@@ -133,11 +134,13 @@ via [@sgrifter](https://twitter.com/sgrifter)
 [tweet](https://twitter.com/Voovarb/status/626805028808970240)
 
 
+
 > It's not that we don't test our code, it's that we don't store our
   tests so they can be re-run automatically.
 
 — [@hadleywickham](https://twitter.com/hadleywickham),
 [testthat article](http://journal.r-project.org/archive/2011-1/RJournal_2011-1_Wickham.pdf)
+
 
 
 > If you use software that lacks automated tests, you are the tests.
@@ -146,11 +149,13 @@ via [@sgrifter](https://twitter.com/sgrifter)
 [tweet](https://twitter.com/jennybryan/status/1043307291909316609)
 
 
+
 > and I’m still pretty sure some of the data is missing, but it could
 > still be here, in this ONE HUNDRED SHEET excel file
 
 — [@RallidaeRule](https://mobile.twitter.com/RallidaeRule)
 [tweet](https://mobile.twitter.com/rallidaerule/status/572922098617741312)
+
 
 
 > Teach stats as you would cake baking: make a few before you delve
@@ -161,35 +166,48 @@ via [@sgrifter](https://twitter.com/sgrifter)
 [blog post](https://sociobiology.wordpress.com/2015/08/13/teach-statistics-the-same-way-you-teach-baking-a-chocolate-cake/)
 
 
+
 > In theory there is no difference between theory and practice. In practice there is.
 
 — Attributed to [Jan L. A. van de Snepscheut](https://en.wikiquote.org/wiki/Jan_L._A._van_de_Snepscheut);
    often [misattributed to Yogi Berra](https://en.wikiquote.org/wiki/Yogi_Berra)
+
+
 
 > The opposite of “open” isn’t “closed”. The opposite of “open” is
   “broken”.
 
 — John Wilbanks, ["The unreasonable effectiveness of open data" (pdf slides)](https://dspace.library.colostate.edu/bitstream/handle/10217/81403/CI_Days_2010_Wilbanks.pdf)
 
+
+
 > Let's start the "titanic data" movement. Data too big to fail.
 
 — [@neilfws](https://twitter.com/neilfws) with assist from [@aaronquinlan](https://twitter.com/aaronquinlan),
 [tweet](https://twitter.com/neilfws/status/588533319135985665)
+
+
 
 > Behind every wildly successful tool there’s probably a very powerful abstraction.
 
 — [@JennyBryan](https://twitter.com/jennybryan)
 [tweet](https://twitter.com/JennyBryan/status/631241695464534016)
 
+
+
 > R is a datasmith's heaven-on-earth; I like Python, long term relationship with Excel, quite like Power Query, DAX's a keeper, but I love R.
 
 — [@tggleeson](https://twitter.com/tggleeson)
 [tweet](https://twitter.com/tggleeson/status/591013073542062081)
 
+
+
 > Data cleaning code cannot be clean. It's a sort of sin eater.
 
 — [@StatFact](https://twitter.com/StatFact)
 [tweet](https://twitter.com/StatFact/status/492753200190341120)
+
+
 
 > Well begun is half done.
 
