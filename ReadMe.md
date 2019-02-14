@@ -221,3 +221,10 @@ via [@sgrifter](https://twitter.com/sgrifter)
 — [@hadleywickham](https://twitter.com/hadleywickham)
 via [@allimoberger](https://twitter.com/allimoberger)
 [tweet](https://twitter.com/allimoberger/status/1085268564821585921
+
+> Last week I told a collaborator to stick the files on a USB drive
+> and walk the 100m across the road rather than figure out
+> inter-institute file sharing.
+
+— [@PeteHaitch](https://twitter.com/PeteHaitch)
+[tweet](https://twitter.com/PeteHaitch/status/1095948744510517250)
