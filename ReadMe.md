@@ -214,6 +214,7 @@ via [@sgrifter](https://twitter.com/sgrifter)
 — Attributed to Aristotle and Mary Poppins
 
 
+
 > You shouldn't feel ashamed about your code - if it solves the
 > problem, it's perfect just the way it is. But also, it could always
 > be better.
@@ -222,9 +223,20 @@ via [@sgrifter](https://twitter.com/sgrifter)
 via [@allimoberger](https://twitter.com/allimoberger)
 [tweet](https://twitter.com/allimoberger/status/1085268564821585921
 
+
+
 > Last week I told a collaborator to stick the files on a USB drive
 > and walk the 100m across the road rather than figure out
 > inter-institute file sharing.
 
 — [@PeteHaitch](https://twitter.com/PeteHaitch)
 [tweet](https://twitter.com/PeteHaitch/status/1095948744510517250)
+
+
+
+> I don't want it perfect. I want it Thursday.
+
+— [I. Jack Good](https://en.wikipedia.org/wiki/I._J._Good)
+via [@SherlockPHolmes](https://twitter.com/SherlockPHolmes)
+via [@kwbroman](https://twitter.com/kwbroman)
+[tweet](https://twitter.com/kwbroman/status/1097170822475800576)
