@@ -240,3 +240,11 @@ via [@allimoberger](https://twitter.com/allimoberger)
 via [@SherlockPHolmes](https://twitter.com/SherlockPHolmes)
 via [@kwbroman](https://twitter.com/kwbroman)
 [tweet](https://twitter.com/kwbroman/status/1097170822475800576)
+
+
+
+> Le mieux est l’enemi du bien
+> (Perfect is the enemy of good)
+
+— [Voltaire](https://en.m.wikipedia.org/wiki/Perfect_is_the_enemy_of_good)
+via [@SherlockPHolmes](https://twitter.com/SherlockPHolmes)
