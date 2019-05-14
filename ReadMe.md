@@ -221,7 +221,7 @@ via [@sgrifter](https://twitter.com/sgrifter)
 
 — [@hadleywickham](https://twitter.com/hadleywickham)
 via [@allimoberger](https://twitter.com/allimoberger)
-[tweet](https://twitter.com/allimoberger/status/1085268564821585921
+[tweet](https://twitter.com/allimoberger/status/1085268564821585921)
 
 
 
