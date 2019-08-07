@@ -249,7 +249,18 @@ via [@kwbroman](https://twitter.com/kwbroman)
 — [Voltaire](https://en.m.wikipedia.org/wiki/Perfect_is_the_enemy_of_good)
 via [@SherlockPHolmes](https://twitter.com/SherlockPHolmes)
 
+
+
 > The usethis package implements this important principle: Automate that which can be automated. Your computer was literally born to implement rote-but-fussy stuff for you.
 
 — [@JennyBryan](https://twitter.com/jennybryan)
 [tweet](https://twitter.com/JennyBryan/status/935562495816753153)
+
+
+
+> that moment when you feel a small surge of satisfaction that something has gone right is the moment to commit
+>
+> the message says why you're happy
+
+— [@Corey_Yanofsky](https://twitter.com/Corey_Yanofsky)
+[tweet](https://twitter.com/Corey_Yanofsky/status/1159064471811366914?s=20)
