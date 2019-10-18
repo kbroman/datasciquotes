@@ -36,7 +36,7 @@
 
 > If it hurts, do it more often.
 
-— [@martinfowler](https://twitter.com/martinfowler) via
+— [@martinfowler](https://twitter.com/martinfowler), via
 [@JennyBryan](https://twitter.com/jennybryan)
 [tweet](https://twitter.com/JennyBryan/status/1087795259872927744)
 
@@ -227,7 +227,7 @@ via [@sgrifter](https://twitter.com/sgrifter)
 > problem, it's perfect just the way it is. But also, it could always
 > be better.
 
-— [@hadleywickham](https://twitter.com/hadleywickham)
+— [@hadleywickham](https://twitter.com/hadleywickham),
 via [@allimoberger](https://twitter.com/allimoberger)
 [tweet](https://twitter.com/allimoberger/status/1085268564821585921)
 
@@ -244,8 +244,8 @@ via [@allimoberger](https://twitter.com/allimoberger)
 
 > I don't want it perfect. I want it Thursday.
 
-— [I. Jack Good](https://en.wikipedia.org/wiki/I._J._Good)
-via [@SherlockPHolmes](https://twitter.com/SherlockPHolmes)
+— [I. Jack Good](https://en.wikipedia.org/wiki/I._J._Good),
+via [@SherlockPHolmes](https://twitter.com/SherlockPHolmes),
 via [@kwbroman](https://twitter.com/kwbroman)
 [tweet](https://twitter.com/kwbroman/status/1097170822475800576)
 
@@ -254,7 +254,7 @@ via [@kwbroman](https://twitter.com/kwbroman)
 > Le mieux est l’enemi du bien
 > (Perfect is the enemy of good)
 
-— [Voltaire](https://en.m.wikipedia.org/wiki/Perfect_is_the_enemy_of_good)
+— [Voltaire](https://en.m.wikipedia.org/wiki/Perfect_is_the_enemy_of_good),
 via [@SherlockPHolmes](https://twitter.com/SherlockPHolmes)
 
 
