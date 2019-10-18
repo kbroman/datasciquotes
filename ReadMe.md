@@ -34,6 +34,14 @@
 
 
 
+> If it hurts, do it more often.
+
+— [@martinfowler](https://twitter.com/martinfowler) via
+[@JennyBryan](https://twitter.com/jennybryan)
+[tweet](https://twitter.com/JennyBryan/status/1087795259872927744)
+
+
+
 > You won’t write tests, because they feel like make work, and then
 > you’ll make yourself very sad, and so you’ll start writing tests. As
 > far as I can tell, everyone does
