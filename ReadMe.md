@@ -266,6 +266,12 @@ via [@SherlockPHolmes](https://twitter.com/SherlockPHolmes)
 
 
 
+> Of course someone has to write loops. It doesn’t have to be you.
+— [@JennyBryan](https://twitter.com/jennybryan)
+[slides](https://speakerdeck.com/jennybc/row-oriented-workflows-in-r-with-the-tidyverse?slide=16)
+
+
+
 > that moment when you feel a small surge of satisfaction that something has gone right is the moment to commit
 >
 > the message says why you're happy
