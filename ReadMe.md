@@ -267,6 +267,7 @@ via [@SherlockPHolmes](https://twitter.com/SherlockPHolmes)
 
 
 > Of course someone has to write loops. It doesn’t have to be you.
+
 — [@JennyBryan](https://twitter.com/jennybryan)
 [slides](https://speakerdeck.com/jennybc/row-oriented-workflows-in-r-with-the-tidyverse?slide=16)
 
