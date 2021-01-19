@@ -27,6 +27,13 @@
 
 
 
+> I will let the data speak for itself when it cleans itself.
+
+— [@AllisonReichel](https://twitter.com/AllisonReichel)
+[tweet](https://twitter.com/AllisonReichel/status/1350107719236247558)
+
+
+
 > Pick a license, any license.
 
 — [@codinghorror](https://twitter.com/codinghorror)
