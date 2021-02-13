@@ -34,6 +34,14 @@
 
 
 
+> Never check data when you are hungry, thirsty, or tired.
+
+— [@GhazalGulati](https://twitter.com/GhazalGulati), via
+[@AmeliaMN](https://twitter.com/AmeliaMN/)
+[tweet](https://twitter.com/AmeliaMN/status/1357861551575871494)
+
+
+
 > Pick a license, any license.
 
 — [@codinghorror](https://twitter.com/codinghorror)
