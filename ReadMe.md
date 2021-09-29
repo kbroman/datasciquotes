@@ -42,6 +42,13 @@
 
 
 
+> One accurate measurement is worth a thousand expert opinions.
+
+— Grace Hopper, via [@NMatasci](https://twitter.com/nmatasci)
+[tweet](https://twitter.com/nmatasci/status/1443272288413966337)
+
+
+
 > Pick a license, any license.
 
 — [@codinghorror](https://twitter.com/codinghorror)
