@@ -34,6 +34,15 @@
 
 
 
+> If you can't make changes because you're afraid of breaking
+> something, it's already broken.
+
+— [Kara Woo](https://karawoo.com), via
+[@franciscoyira@techhub.social](https://techhub.social/@franciscoyira)
+[toot](https://techhub.social/@franciscoyira/111270237587716071)
+
+
+
 > Never check data when you are hungry, thirsty, or tired.
 
 — [@GhazalGulati](https://twitter.com/GhazalGulati), via
