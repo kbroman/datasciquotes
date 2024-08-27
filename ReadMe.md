@@ -23,7 +23,7 @@
 > to emails.
 
 — [@gonuke](https://twitter.com/gonuke), after [@kcranstn](https://twitter.com/kcranstn)
-[tweet](http://bit.ly/motivate_git) quoting [@mtholder](https://twitter.com/mtholder)
+[tweet](https://bit.ly/motivate_git) quoting [@mtholder](https://twitter.com/mtholder)
 
 
 
