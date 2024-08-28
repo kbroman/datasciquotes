@@ -61,7 +61,7 @@
 > Pick a license, any license.
 
 — [@codinghorror](https://twitter.com/codinghorror)
-[blog post](http://blog.codinghorror.com/pick-a-license-any-license/)
+[blog post](https://blog.codinghorror.com/pick-a-license-any-license/)
 
 
 
