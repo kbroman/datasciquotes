@@ -79,7 +79,7 @@
 > this.
 
 — [@christinacaci](https://twitter.com/christinacaci)
-[blog post](http://christinacacioppo.com/blog/build-products)
+[blog post](https://web.archive.org/web/20190401190715/https://christinacacioppo.com/blog/build-products)
 
 
 
