@@ -110,7 +110,7 @@
 > The most important tool for Reproducible Research is the **mindset**,
 > when starting, that the end product will be reproducible.
 
-— [Keith Baggerly](http://odin.mdacc.tmc.edu/~kabaggerly/), via
+— Keith Baggerly, via
 [@kwbroman](https://twitter.com/kwbroman)
 [tweet](https://twitter.com/kwbroman/status/667735926915731457)
 
