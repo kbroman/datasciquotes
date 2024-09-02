@@ -152,7 +152,7 @@
 
 > Batch effects are important and they will bollocks you up.
 
-— [Keith Baggerly](http://odin.mdacc.tmc.edu/~kabaggerly/), via
+— Keith Baggerly, via
 [@kwbroman](https://twitter.com/kwbroman)
 [tweet](https://twitter.com/kwbroman/status/667745704488529921)
 
