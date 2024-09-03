@@ -178,7 +178,7 @@ via [@sgrifter](https://twitter.com/sgrifter)
   tests so they can be re-run automatically.
 
 — [@hadleywickham](https://twitter.com/hadleywickham),
-[testthat article](http://journal.r-project.org/archive/2011-1/RJournal_2011-1_Wickham.pdf)
+[testthat article](https://journal.r-project.org/archive/2011-1/RJournal_2011-1_Wickham.pdf)
 
 
 
